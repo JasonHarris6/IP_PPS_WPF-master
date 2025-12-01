@@ -1,0 +1,22 @@
+﻿<Window x:Class="IP_PPS.MyOkCancelForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IP_PPS"
+        mc:Ignorable="d"
+        Title="MyOkCancelForm" Height="150" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="MessageText">Message</TextBlock>
+        </WrapPanel>
+        <WrapPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button x:Name="OKButton" Click="OKButton_Click" Margin="10" Padding="5" Width="150">OK</Button>
+            <Button x:Name="CancelButton" Click="CancelButton_Click" Margin="10" Padding="5" Width="150">Cancel</Button>
+        </WrapPanel>
+    </Grid>
+</Window>
