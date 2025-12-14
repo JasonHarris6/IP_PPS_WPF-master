@@ -1,0 +1,25 @@
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\bin\Debug\IP_PPS.exe.config
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\bin\Debug\IP_PPS.exe
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\bin\Debug\IP_PPS.pdb
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\MainWindow.g.cs
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\MyOkCancelForm.g.cs
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\App.g.cs
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS_MarkupCompile.cache
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS_MarkupCompile.lref
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\MainWindow.baml
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\MyOkCancelForm.baml
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS.g.resources
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS.Properties.Resources.resources
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS.csproj.GenerateResource.cache
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS.csproj.CoreCompileInputs.cache
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS.exe
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS.pdb
+C:\Users\bibik\Desktop\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS.csproj.AssemblyReference.cache
+C:\Users\Глеб\OneDrive\Рабочий стол\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS.csproj.AssemblyReference.cache
+C:\Users\Глеб\OneDrive\Рабочий стол\IP_PPS_WPF-master\IP_PPS\obj\Debug\MainWindow.g.cs
+C:\Users\Глеб\OneDrive\Рабочий стол\IP_PPS_WPF-master\IP_PPS\obj\Debug\MyOkCancelForm.g.cs
+C:\Users\Глеб\OneDrive\Рабочий стол\IP_PPS_WPF-master\IP_PPS\obj\Debug\App.g.cs
+C:\Users\Глеб\OneDrive\Рабочий стол\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS_MarkupCompile.cache
+C:\Users\Глеб\OneDrive\Рабочий стол\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS_MarkupCompile.lref
+C:\Users\Глеб\OneDrive\Рабочий стол\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS.exe
+C:\Users\Глеб\OneDrive\Рабочий стол\IP_PPS_WPF-master\IP_PPS\obj\Debug\IP_PPS.pdb
